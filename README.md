@@ -34,8 +34,3 @@ Use-os como referência para formatar seus próprios arquivos Excel.
 ## Saída
 
 Os arquivos XML gerados podem ser importados no Navisworks como Appearance Profiler ou Search Sets.
-
-## Observações
-
-- O diretório `Output/` está disponível para armazenar arquivos gerados.
-- Caso prefira rodar a conversão de Search Sets sem a interface gráfica, o script `excel_to_nw_search.py` contém a função `convert_excel_to_xml`.
